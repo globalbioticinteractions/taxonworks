@@ -1,9 +1,9 @@
 {
   "format": "json",
-  "citation": "Poelen, Jorrit H. (2023). A biodiversity dataset graph: Biological Associations in TaxonWorks hash://sha256/a4d651aac5220487835e6178511886e98b845b2d98cb7c5447fb2b042e0654d2 hash://md5/849edbe55e31e54ea5cdaba0188c5655 (0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8253729",
-  "doi": "10.5281/zenodo.8253729",
-  "url": "https://zenodo.org/record/8253729/files/interactions.json",
+  "citation": "Poelen, J. H. (2024). A biodiversity dataset graph: Biological Associations in TaxonWorks hash://sha256/e4a47c067d6c125da60c9a1b92b5eecdea539cb8666cd3aed99db347ae5b8ed0 hash://md5/686007de79cc2a49ab23fd3debe56e3f [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11151783",
+  "doi": "10.5281/zenodo.11151783",
+  "url": "https://zenodo.org/records/11151783/files/interactions.json",
   "resources": {
-    "/interactions.json": "https://zenodo.org/record/8253729/files/interactions.json"
+    "/interactions.json": "https://zenodo.org/records/11151783/files/interactions.json"
   }
 }
