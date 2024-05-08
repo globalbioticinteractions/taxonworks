@@ -2,6 +2,6 @@
 
 This repository configures Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) to index biological association as published via:
 
-Poelen, Jorrit H. (2023). A biodiversity dataset graph: Biological Associations in TaxonWorks hash://sha256/ab7550368905e7c919e70a306efbb97719a1edbba2cfe4c4515f635ebc0be4bb hash://md5/8771b9560146cb7af895a1a6de23bd87 (0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8252844
+Poelen, J. H. (2024). A biodiversity dataset graph: Biological Associations in TaxonWorks hash://sha256/e4a47c067d6c125da60c9a1b92b5eecdea539cb8666cd3aed99db347ae5b8ed0 hash://md5/686007de79cc2a49ab23fd3debe56e3f [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11151783
 
 For context, see https://github.com/globalbioticinteractions/globalbioticinteractions/issues/373 . 
