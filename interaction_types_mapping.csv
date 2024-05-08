@@ -14,3 +14,7 @@ is predated by / is predetor of,gid://taxon-works/BiologicalRelationship/7,preye
 is infected with / is pathogen of,gid://taxon-works/BiologicalRelationship/6,hasPathogen,http://purl.obolibrary.org/obo/RO_0002557
 is mutualistically associated with / is endosymbiont of,gid://taxon-works/BiologicalRelationship/4,mutualisticallyInteractsWith,http://purl.obolibrary.org/obo/RO_0002442
 galler of / galled by,gid://taxon-works/BiologicalRelationship/35,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+gall,gid://taxonworks/BiologicalRelationship/69,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+inquiline,gid://taxonworks/BiologicalRelationship/70,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Parasitoid (larva-pupa) of,gid://taxonworks/BiologicalRelationship/54,parasitoidOf,http://purl.obolibrary.org/obo/RO_0002209
+adult feeds on / eaten by,gid://taxonworks/BiologicalRelationship/62,eats,http://purl.obolibrary.org/obo/RO_0002470
